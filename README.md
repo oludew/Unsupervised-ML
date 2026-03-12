@@ -1,1 +1,1 @@
-Zajęcia z uczenia maszynwoego nienadzorownageo na UW WNE
+Final porjects for unsupervised learning class at WNE UW
