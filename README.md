@@ -1,1 +1,1 @@
-Final porjects for unsupervised learning class at WNE UW
+Final pojects for unsupervised learning class at WNE UW
